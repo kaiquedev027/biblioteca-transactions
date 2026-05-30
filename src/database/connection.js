@@ -5,7 +5,7 @@ async function connectDB() {
     "mongodb://localhost:27017/biblioteca"
   );
 
-  console.log("MongoDB conectado");
+  console.log("MongoDB conectado com sucesso.");
 }
 
 module.exports = connectDB;
