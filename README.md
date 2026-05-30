@@ -24,4 +24,4 @@ npm install
 
 ## Execução
 
-node src/app.js
+node src/main.js
