@@ -95,5 +95,5 @@ async function devolverLivro(emprestimoId) {
 
 module.exports = {
   registrarEmprestimo,
-  devolverLivro,
+  devolverLivra,
 };
